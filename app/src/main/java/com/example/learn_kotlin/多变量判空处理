@@ -1,0 +1,8 @@
+inline fun <R> notNull(vararg args: Any?, block: () -> R) =
+    when {
+        args.filterNotNull().size == args.size -> block()
+        else -> null
+    }
+
+    notNull(user, map) { println("name: ${map[it.name]}") }
+
