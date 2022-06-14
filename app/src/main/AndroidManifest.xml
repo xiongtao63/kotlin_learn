@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Learn_kotlin">
         <activity
-            android:name=".MainActivity"
+            android:name=".retrofittest.MainActivity3"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

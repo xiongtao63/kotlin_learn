@@ -1,5 +1,5 @@
 package com.example.learn_kotlin
-
+//高阶函数，会有函数类型的参数，加上 inline 就对了
 fun main() {
 
 

@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/AndroidProject/learn_kotlin/app/src/main/res/layout/activity_anko_test.xml" value="0.1" />
         <entry key="..\:/AndroidProject/learn_kotlin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/learn_kotlin/app/src/main/res/layout/activity_main2.xml" value="0.20364583333333333" />
         <entry key="..\:/AndroidProject/learn_kotlin/app/src/main/res/layout/activity_test.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/learn_kotlin/app/src/main/res/layout/main_activity3.xml" value="0.20364583333333333" />
+        <entry key="..\:/AndroidProject/learn_kotlin/app/src/main/res/layout/main_fragment2.xml" value="0.2" />
       </map>
     </option>
   </component>

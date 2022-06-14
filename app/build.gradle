@@ -63,5 +63,12 @@ dependencies {
     implementation 'androidx.core:core-ktx:1.6.0-alpha02'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
+    implementation "com.squareup.retrofit2:retrofit:2.9.0"
+    //Gson解析
+    implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
+    // Rxjava
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
+
+
 
 }
